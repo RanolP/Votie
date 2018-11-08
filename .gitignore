@@ -1,0 +1,9 @@
+# Code Editor Settings
+.vscode/
+
+# Node
+node_modules/
+
+# Own file
+.env*
+**/data.json

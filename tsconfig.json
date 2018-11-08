@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "lib": ["es7"],
+    "outDir": "dist",
+
+    "esModuleInterop": true,
+    "downlevelIteration": true
+  }
+}
